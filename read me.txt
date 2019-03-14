@@ -1,0 +1,30 @@
+*****************
+Space Invaders II                   
+*****************
+
+
+Explication (Regle): 
+--------------------
+
+Les aliens sont de retours ! Proteger la Terre de ces envahisseurs ! Battez-vous pour votre LIBERTEEEEEEEEE !!!!! 
+
+Touche A pour deplacer le vaisseau (Le Falcon X) a gauche.
+Touche D pour deplacer le vaisseau (Le Falcon X) a droite.
+Touche Espace pour tirer les lasers du vaisseau. 
+
+Ils arriveront de plus en plus, si lennemi vous surpasse et atteinds le nombre de 15 cest Game Over !
+Si 3 aliens arrivent a vous depasser et a atteindre la Terre, ils rependront un virus mortel qui detruira l'humanite, cest Game Over !
+Un vaisseau Destroyer apparaitra et se deplacera rapidement et ne tirera uniquement si vous passer devant. Pensez a l'esquiver !
+Il est gros, il a des vies, mais il peux saigner ... donc vous pouvez surement le tuer ...
+
+Les Fighters (vaisseau aliens) avancent de plus en plus vite et tirent de plus en plus vite aussi en fonction de votre niveau de Difficulter.
+Vous avez des vies en fonction de votre niveaux de difficulter. 3 en Facile. 2 en Normal. 1 en Difficile.
+Vous avez un grade en fonction de votre niveau de difficulter.
+
+Vous gagnez la Partie si vous arrivez a detruire tout les Fighters.
+
+KILL THEM ALL !!! 
+LETS GOOOOO !!!! 
+
+
+
