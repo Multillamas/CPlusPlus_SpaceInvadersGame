@@ -26,6 +26,6 @@ LETS GOOOOO !!!!
 
 
 ******
-Cet projet étais dévéloppé en collaboration. J'ai était en charge de l'architecture (game, clock, spacemain, mainMenu, screen, keyboard), les marciens : le destroyer, et des autres fonctionnalités.
+Cet projet était dévéloppé en collaboration. J'ai était en charge de l'architecture (game, clock, spacemain, mainMenu, screen, keyboard), les marciens : le destroyer, et des autres fonctionnalités.
 
 
